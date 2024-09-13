@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Hyunseung Yu.
+Nice to meet you.
 
 <!--
 **UDADDY/UDADDY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
