@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![기술 블로그](https://www.notion.so/iambusy/15276d34e2a580a29378c463f9defeb5)
+[기술 블로그](https://www.notion.so/iambusy/15276d34e2a580a29378c463f9defeb5)
