@@ -1,14 +1,15 @@
 ## Education
 
-- 2020.03 ~ 2026.02 서울시립대학교 통계학과
-- 수학 부전공
-- SSAFY 15기
+
+- 2026.01 - Now SSAFY 15기
+- 2018.03 ~ 2026.02 서울시립대학교 컴퓨터과학부
+- 2015.02 - 2018.02 선린인터넷고등학교 정보통신과
 
 ## Certification
 
-- 정보처리기사
-- SQLD
-- TOEIC Speaking (기입)
+- 정보처리기사 2024.09
+- SQLD 2024.09
+- TOEIC Speaking IH 2025.10
 
 ---
 
@@ -16,10 +17,11 @@
 
 | 기간 | 프로젝트 | 소개 | 역할 | 기술 |
 |---|---|---|---|---|
-| 2025.01 ~ 진행중 | 시대생 | 서울시립대 학생 커뮤니티 서비스 운영 및 기능 개발 | Backend Lead | Kotlin, Spring Boot, PostgreSQL, AWS |
-| 2025.01 ~ 진행중 | 시대팅 시즌6 | 학생 미팅 서비스 결제 시스템 설계 및 운영 | Backend | Kotlin, Spring Boot, PortOne, MySQL |
+| 2023.10 ~ 2025.11 | 시대생 | 서울시립대 학생 커뮤니티 서비스 운영 및 기능 개발 | Backend Lead | Kotlin, Spring Boot, PostgreSQL, AWS |
+| 2025.04 ~ 2025.06 | 시대팅 시즌6 | 학생 미팅 서비스 결제 시스템 설계 및 운영 | Backend | Kotlin, Spring Boot, PortOne, MySQL |
 | 2024.07 ~ 2024.12 | 한국통계정보원 인턴 | 통계 시스템 조회/백업 성능 개선 및 리팩토링 | Backend Intern | Java, Spring MVC, MyBatis, Oracle |
-| 2024 | QR 모바일 주문 서비스 | 키오스크 UI 문제를 해결하는 모바일 주문 서비스 | Backend | Java, Spring, MySQL |
+| 2024.02 ~ 2025.06 | 시대팅 시즌4 | 학생 미팅 서비스 결제 시스템 설계 및 운영 | Backend | Kotlin, Spring Boot, PortOne, MySQL |
+| 2023 | QR 모바일 주문 서비스 | 키오스크 UI 문제를 해결하는 모바일 주문 서비스 | Backend | Java, Spring, MySQL |
 
 ---
 
