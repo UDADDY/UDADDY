@@ -1,16 +1,16 @@
 # 유현승
 
-정합성, 성능, 유지보수성을 중요하게 생각하는 백엔드 개발자입니다.  
-실서비스 운영, 결제 시스템 설계, 레거시 SQL 최적화 경험을 바탕으로 오래 운영 가능한 구조를 만드는 데 관심이 있습니다.
+정합성, 성능, 유지보수성을 기준으로 구조를 설계하는 백엔드 개발자입니다.  
+실서비스 운영, 결제 시스템 설계, AWS 인프라 이전, 레거시 SQL 최적화 경험을 바탕으로 운영 안정성·장애 대응·변경 비용까지 함께 고려하는 개발을 지향합니다.
 
 ---
 
-## 핵심 요약
+## 핵심 성과
 
-- **3만+ 가입자 / MAU 3,500+** 규모의 학생 커뮤니티 서비스 개발 및 운영
-- **멱등성, 웹훅 검증, 상태 전이 설계**를 반영한 결제 시스템 구축
-- **Oracle/MyBatis 기반 레거시 시스템**의 조회·백업 성능 개선 및 리팩토링
-- 기능 구현을 넘어 **정합성, 운영 안정성, 유지보수성**을 함께 고려하는 백엔드 개발 지향
+- **3만+ 가입자 / MAU 3,500+ / 약 2년 운영** 규모의 학생 커뮤니티 서비스 개발 및 운영
+- **누적 결제 4,000+건 / 결제 장애 0건 / CS 0건**을 달성한 결제 시스템 설계 및 고도화
+- Oracle INSERT 성능 **2,176ms → 31ms (-98%)** 개선
+- 기능 구현을 넘어 **운영 안정성, 장애 격리, 변경 비용**까지 함께 고려하는 개발 지향
 
 ---
 
@@ -20,8 +20,8 @@
 |---|---|---|---|---|
 | 2023.10 ~ 2025.11 | 시대생 | 3만+ 가입자 규모의 서울시립대 학생 커뮤니티 서비스 개발 및 운영 | Backend Lead | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) |
 | 2025.04 ~ 2025.06 | 시대팅 시즌6 | 1:1 미팅 구조에 맞춘 결제 흐름 고도화 및 운영 안정성 강화 | Backend Lead | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PortOne](https://img.shields.io/badge/PortOne-4B5AE4?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| 2024.02 ~ 2025.03 | 시대팅 시즌4 | 학생 미팅 서비스에 유료 결제 시스템을 처음 도입하고 운영 | Backend | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PortOne](https://img.shields.io/badge/PortOne-4B5AE4?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| 2024.07 ~ 2024.12 | 한국통계정보원 인턴 | Oracle/MyBatis 기반 통계 시스템 조회·백업 성능 개선 | Backend Intern | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat-square&logo=spring&logoColor=white) ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) |
+| 2024.02 ~ 2024.06 | 시대팅 시즌4 | 학생 미팅 서비스에 유료 결제 시스템을 처음 도입하고 운영 | Backend | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PortOne](https://img.shields.io/badge/PortOne-4B5AE4?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| 2024.07 ~ 2024.12 | 통계 입력 시스템 | Oracle/MyBatis 기반 통계 시스템 조회·백업 성능 개선 | Backend Intern (한국통계정보원 인턴) | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat-square&logo=spring&logoColor=white) ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) |
 | 2023.06 ~ 2023.09 | QR 모바일 주문 서비스 | 키오스크 UI 문제를 줄이기 위한 QR 기반 모바일 주문 서비스 개발 | Backend Lead | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 
 ---
@@ -35,11 +35,9 @@
 - 인증 체계 개선, 인프라 이전, 전용 수집 서버 분리로 **운영 효율과 장애 격리 구조** 강화
 
 ### 시대팅
-- 결제 상태 전이 및 예외 처리 흐름 설계
-- 멱등성, 주문 단위 유니크 제약, 웹훅 검증 구조로 **정합성 중심 결제 시스템** 구현
-- 시즌4에서 유료 결제 시스템을 처음 도입하며 결제 상태 전이와 예외 흐름 설계
-- 시즌6에서 1:1 미팅 구조에 맞춰 멱등성, 주문 단위 유니크 제약, 웹훅 검증 구조로 결제 정합성 고도화
-- 누적 결제 4,000+건 처리 / 결제 장애 0건 / CS 0건 달성
+- 시즌4에서 유료 결제 시스템을 처음 도입하고, 시즌6에서 1:1 구조에 맞춰 결제 흐름을 고도화
+- 상태 전이, 멱등성, 주문 단위 유니크 제약, 웹훅 검증 구조를 적용해 **중복 결제와 상태 불일치 방지**
+- **누적 결제 4,000+건 / 결제 장애 0건 / CS 0건** 달성
 - PG 테스트 API 기반 사전 검증으로 운영 단계의 결제 리스크 최소화
 
 ### 한국통계정보원 인턴
