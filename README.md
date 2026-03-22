@@ -46,10 +46,10 @@
 
 ## 기술 문서
 
-- [Spring MVC에서 JSON 요청 바인딩 문제 해결](링크)
-- [리스트 반복문 대신 비트마스크 한 줄로 끝내기](링크)
-- [Oracle INSERT 쿼리 최적화](링크)
-- [통계표 기본 정보 조회 쿼리 최적화](링크)
+- [Spring MVC에서 JSON 요청 바인딩 문제 해결](https://www.notion.so/iambusy/Spring-MVC-JSON-15376d34e2a58021aa10ff9499a02194?source=copy_link)
+- [리스트 반복문 대신 비트마스크 한 줄로 끝내기](https://www.notion.so/iambusy/29076d34e2a580498303f7dea0bd392c?source=copy_link)
+- [Oracle INSERT 쿼리 최적화](https://www.notion.so/iambusy/Oracle-INSERT-2-176ms-31ms-16c76d34e2a580fea733e6b46de4e3d3?source=copy_link)
+- [통계표 기본 정보 조회 쿼리 최적화](https://www.notion.so/iambusy/15276d34e2a580218054d6bb98effb55?source=copy_link)
 
 ---
 
