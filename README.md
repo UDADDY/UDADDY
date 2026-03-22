@@ -19,13 +19,12 @@
 | 기간 | 프로젝트 | 소개 | 역할 | 기술 |
 |---|---|---|---|---|
 | 2023.10 ~ 2025.11 | 시대생 | 3만+ 가입자 규모의 서울시립대 학생 커뮤니티 서비스 개발 및 운영 | Backend Lead | Kotlin, Spring Boot, PostgreSQL, AWS |
-| 2024.02 ~ 2025.06 | 시대팅 | 학생 미팅 서비스 결제 시스템 설계 및 운영 | Backend | Kotlin, Spring Boot, PortOne, MySQL |
+| 2024.02 ~ 2025.06 | 시대팅 | 학생 미팅 서비스의 결제 시스템 설계 및 운영 | Backend | Kotlin, Spring Boot, PortOne, MySQL |
 | 2024.07 ~ 2024.12 | 한국통계정보원 인턴 | Oracle/MyBatis 기반 통계 시스템 조회·백업 성능 개선 | Backend Intern | Java, Spring MVC, MyBatis, Oracle |
 | 2023 | QR 모바일 주문 서비스 | 키오스크 UI 문제를 줄이기 위한 QR 기반 모바일 주문 서비스 개발 | Backend | Java, Spring, MySQL |
 
 ---
 
-## 주요 기여
 
 ### 시대생
 - **총 가입자 3만+ / MAU 3,500+** 규모 서비스 개발 및 운영
