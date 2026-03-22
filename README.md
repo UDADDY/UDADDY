@@ -18,9 +18,9 @@
 
 | 기간 | 프로젝트 | 소개 | 역할 | 기술 |
 |---|---|---|---|---|
-| 2023.10 ~ 2025.11 | 시대생 | 3만+ 가입자 규모의 서울시립대 학생 커뮤니티 서비스 개발 및 운영 | Backend Lead | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) |
-| 2025.04 ~ 2025.06 | 시대팅 시즌6 | 1:1 미팅 구조에 맞춘 결제 흐름 고도화 및 운영 안정성 강화 | Backend Lead | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PortOne](https://img.shields.io/badge/PortOne-4B5AE4?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| 2024.02 ~ 2024.06 | 시대팅 시즌4 | 학생 미팅 서비스에 유료 결제 시스템을 처음 도입하고 운영 | Backend | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PortOne](https://img.shields.io/badge/PortOne-4B5AE4?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| 2023.10 ~ 2025.11 | [시대생](https://github.com/uoslife) | 3만+ 가입자 규모의 서울시립대 학생 커뮤니티 서비스 개발 및 운영 | Backend Lead | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) |
+| 2025.04 ~ 2025.06 | [시대팅](https://github.com/uoslife) 시즌6 | 1:1 미팅 구조에 맞춘 결제 흐름 고도화 및 운영 안정성 강화 | Backend Lead | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PortOne](https://img.shields.io/badge/PortOne-4B5AE4?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| 2024.02 ~ 2024.06 | [시대팅](https://github.com/uoslife) 시즌4 | 학생 미팅 서비스에 유료 결제 시스템을 처음 도입하고 운영 | Backend | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PortOne](https://img.shields.io/badge/PortOne-4B5AE4?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
 | 2024.07 ~ 2024.12 | 통계 입력 시스템 | Oracle/MyBatis 기반 통계 시스템 조회·백업 성능 개선 | Backend Intern (한국통계정보원 인턴) | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat-square&logo=spring&logoColor=white) ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) |
 | 2023.06 ~ 2023.09 | QR 모바일 주문 서비스 | 키오스크 UI 문제를 줄이기 위한 QR 기반 모바일 주문 서비스 개발 | Backend Lead | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 
@@ -28,13 +28,13 @@
 
 ## 주요 기여
 
-### 시대생
+### [시대생](https://github.com/uoslife)
 - **총 가입자 3만+ / MAU 3,500+ / 약 2년 운영** 규모 서비스 개발 및 운영
 - 인증/인가, 시간표, 학적, 공지 등 핵심 기능의 백엔드 구현
 - **백엔드 리드 및 운영진**으로서 기능 확장과 운영 안정화에 기여
 - 인증 체계 개선, 인프라 이전, 전용 수집 서버 분리로 **운영 효율과 장애 격리 구조** 강화
 
-### 시대팅
+### [시대생](https://github.com/uoslife)
 - 시즌4에서 유료 결제 시스템을 처음 도입하고, 시즌6에서 1:1 구조에 맞춰 결제 흐름을 고도화
 - 상태 전이, 멱등성, 주문 단위 유니크 제약, 웹훅 검증 구조를 적용해 **중복 결제와 상태 불일치 방지**
 - **누적 결제 4,000+건 / 결제 장애 0건 / CS 0건** 달성
