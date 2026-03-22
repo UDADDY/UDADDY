@@ -80,7 +80,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UDADDY&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UDADDY&layout=compact&theme=tokyonight)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=여기에백준아이디)](https://solved.ac/profile/여기에백준아이디)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gustmd5715)](https://solved.ac/profile/gustmd5715)
 
 ---
 
