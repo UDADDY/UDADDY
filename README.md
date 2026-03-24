@@ -105,5 +105,4 @@
 ## 연락처
 
 - 이메일: gustmd5715@gmail.com
-- 블로그: [udaddy.github.io](https://udaddy.github.io/)
 - GitHub: [github.com/UDADDY](https://github.com/UDADDY)
