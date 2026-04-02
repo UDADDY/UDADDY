@@ -54,6 +54,8 @@
 - [리스트 반복문 대신 비트마스크 한 줄로 끝내기](https://www.notion.so/iambusy/29076d34e2a580498303f7dea0bd392c?source=copy_link)
 - [Oracle INSERT 쿼리 최적화](https://www.notion.so/iambusy/Oracle-INSERT-2-176ms-31ms-16c76d34e2a580fea733e6b46de4e3d3?source=copy_link)
 - [통계표 기본 정보 조회 쿼리 최적화](https://www.notion.so/iambusy/15276d34e2a580218054d6bb98effb55?source=copy_link)
+- [로컬 & 배포 환경에서 AWS 자격 증명 흐름 정리](https://www.notion.so/iambusy/AWS-33676d34e2a5807ea194ce262f3fe402?source=copy_link)
+- [결제 시스템 연동 가이드 - PortOne 기반](https://www.notion.so/iambusy/PortOne-33676d34e2a580cc98d3fb55da29272a?source=copy_link)
 
 ---
 
